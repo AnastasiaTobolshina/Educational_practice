@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T10:33:44.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="C5hxrLJsOely7hIuHLhd" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T10:34:24.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="2wRcsshviqWDdzQfSfEV" version="21.2.4" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
-    <mxGraphModel dx="1835" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="423" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,10 +166,10 @@
         <mxCell id="9knSuTqsfpqkdG8Z8UKq-85" value="Вход на главную страницу" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1138" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FUXBEu7J9I23XqZanYg2-104" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.53;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="FUXBEu7J9I23XqZanYg2-5">
+        <mxCell id="FUXBEu7J9I23XqZanYg2-153" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FUXBEu7J9I23XqZanYg2-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1391" y="602" as="sourcePoint" />
-            <mxPoint x="1390.8" y="550.8" as="targetPoint" />
+            <mxPoint x="1288.1538461538462" y="551" as="targetPoint" />
+            <mxPoint x="1288" y="601" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FUXBEu7J9I23XqZanYg2-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ввод&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Имя&lt;/li&gt;&lt;li&gt;Фамилия&lt;/li&gt;&lt;li&gt;Отчество&lt;/li&gt;&lt;li&gt;Логин&lt;/li&gt;&lt;li&gt;Имеил&lt;/li&gt;&lt;li&gt;Пароль&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: center;&quot;&gt;после авторизации гость переходит в статус автора или администратора&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;align=left;" vertex="1" parent="1">
