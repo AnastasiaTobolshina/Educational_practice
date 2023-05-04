@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T08:29:01.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="wv_ey8nKbwUtFxSX8n0i" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T08:30:04.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="OcYOD06DHcGrOU-lu7a7" version="21.2.6" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
     <mxGraphModel dx="606" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry x="865" y="730" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9knSuTqsfpqkdG8Z8UKq-20" value="написать пост" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="950" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="950" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9knSuTqsfpqkdG8Z8UKq-21" value="&lt;div style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;редактирование поста и удаление поста.&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="120" width="132" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9knSuTqsfpqkdG8Z8UKq-23" value="&lt;div style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;написание комментариев на&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;любой пост, ответить на чей-то&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;комментарий у своих постов&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="950" y="130" width="240" height="90" as="geometry" />
+        <mxCell id="9knSuTqsfpqkdG8Z8UKq-23" value="&lt;div style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;написать комментарий на&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;любой пост&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="950" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9knSuTqsfpqkdG8Z8UKq-40" value="удаление любого комментария к посту" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="718" y="995" width="138" height="80" as="geometry" />
@@ -190,10 +190,10 @@
           <mxGeometry x="666" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUXBEu7J9I23XqZanYg2-112" value="&amp;lt;ex&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="900" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="902" y="146" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUXBEu7J9I23XqZanYg2-113" value="&amp;lt;ex&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="902" y="252" width="60" height="30" as="geometry" />
+          <mxGeometry x="902" y="247" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUXBEu7J9I23XqZanYg2-120" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="FUXBEu7J9I23XqZanYg2-119" edge="1">
           <mxGeometry relative="1" as="geometry">
