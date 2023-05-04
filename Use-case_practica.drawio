@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T09:23:32.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="4RDS5s9uQdjtfa6b8q91" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T09:23:41.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="5h56Cagv8vUv_BSIuDsk" version="21.2.6" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
-    <mxGraphModel dx="3291" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2304" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9knSuTqsfpqkdG8Z8UKq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="9knSuTqsfpqkdG8Z8UKq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="471" y="65" width="990" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="FzXyHuzGWIafurGT9Yt7-52" value="&amp;lt;ex&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
