@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T11:33:51.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="ngPmYxsLJYamZ4NQaLj-" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T11:46:30.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="j6Pz2-DGlTDn8bYccUtv" version="21.2.7" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
-    <mxGraphModel dx="622" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,7 +593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bs25zcE_tGcR7g0s44O_-155" value="Доступно только для автора" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="731" width="75" height="47.5" as="geometry" />
+          <mxGeometry x="2660" y="731" width="95" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
