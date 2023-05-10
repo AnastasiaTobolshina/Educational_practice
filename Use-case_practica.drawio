@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T08:54:08.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="gmUm0WRNif8I3PE4H1YH" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T08:55:44.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="-qEiiQyuxyK8CGSTxu59" version="21.2.9" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
     <mxGraphModel dx="1003" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -551,7 +551,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bs25zcE_tGcR7g0s44O_-98" value="удалить любой комментарий к посту" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="bs25zcE_tGcR7g0s44O_-98" value="удалить комментарий&lt;br&gt;к посту" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="2541" y="956" width="138" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bs25zcE_tGcR7g0s44O_-61" value="создать пост" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
