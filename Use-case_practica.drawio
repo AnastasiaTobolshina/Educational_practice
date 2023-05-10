@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T07:40:17.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="u5bThYaskuEgv51S9re4" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T07:54:59.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="4od5zKq9SKyZsh1tdgX9" version="21.2.9" type="github">
   <diagram name="Страница 1" id="QsfnnbbEi18aQVXhpXs9">
-    <mxGraphModel dx="1214" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,12 +628,6 @@
         <mxCell id="bs25zcE_tGcR7g0s44O_-155" value="Доступно только для автора" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="OCCZzdD5ZkDFfb0S_ysj-37" vertex="1">
           <mxGeometry width="112.5" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="OCCZzdD5ZkDFfb0S_ysj-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2680" y="576" width="120.40000000000009" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bs25zcE_tGcR7g0s44O_-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;На все посты, кроме своих&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" parent="OCCZzdD5ZkDFfb0S_ysj-39" vertex="1">
-          <mxGeometry width="102.5" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="OCCZzdD5ZkDFfb0S_ysj-40" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2980" y="806" width="175" height="60" as="geometry" />
         </mxCell>
@@ -644,6 +638,14 @@
         </mxCell>
         <mxCell id="bs25zcE_tGcR7g0s44O_-64" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 12px; color: rgb(26, 26, 26); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;Только&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;свои посты, у которых нет комментариев&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" parent="OCCZzdD5ZkDFfb0S_ysj-40" vertex="1">
           <mxGeometry x="45" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCCZzdD5ZkDFfb0S_ysj-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="bs25zcE_tGcR7g0s44O_-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3061.3623188405795" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs25zcE_tGcR7g0s44O_-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;На все посты, кроме своих&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="3010" y="542" width="102.5" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
