@@ -1,1 +1,1 @@
-# Educational_practice
+# Програмный код
