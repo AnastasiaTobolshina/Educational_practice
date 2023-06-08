@@ -1,1 +1,1 @@
-# Educational_practice
+# Диаграммы IDEF0 и DFD
