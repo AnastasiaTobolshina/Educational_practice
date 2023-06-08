@@ -1,1 +1,1 @@
-# Educational_practice
+# Mind Map система
