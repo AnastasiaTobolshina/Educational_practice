@@ -4,9 +4,6 @@
 
 ### Проект выполнен Тобольшиной Анастасиее Алексеевной студентом группы ИВ1-21
 
-## Описание проекта
-.........
-
 ## Использованые технологии
 - Diagrams.net. В данной программе созданна Use-Case диаграмма. [Ссылка на ветку с Use-Case диаграммой](https://github.com/AnastasiaTobolshina/Educational_practice/tree/Use-Case)
 - Ramus. В этой програме была созданна диаграмма IDEF0 и декомпозиция IDEF0 диаграммы 1 уровня. [Ссылка на ветку с данными диаграмами](https://github.com/AnastasiaTobolshina/Educational_practice/tree/IDEF0_DFD)
